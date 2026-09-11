@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Source files (not needed in production image)
+src/
+
+# Build configuration
+tsconfig.json
+build.mjs
+
+# Replit artifacts
+.replit-artifact/
+
+# Dev files
+*.md
+.env
+.env.*
+.gitignore
